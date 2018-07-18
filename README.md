@@ -1,2 +1,5 @@
 # cerveceameServer
-Server for Cerveceame
+
+Server for my rating beer APP, Cerveceame.
+
+APP code is available in https://github.com/merelo/cerveceame
